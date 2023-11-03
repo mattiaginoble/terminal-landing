@@ -1,7 +1,7 @@
 # A landing page with interactive terminal in React
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R1MWJka3YwdDhmNTZrNXF1OW9uajlwN3V4em5nZzd5MGQzcWhoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CM5PSpbbPpBD80QxJ5/giphy.gif)
 
-![GitHub](https://img.shields.io/github/license/mattiaginoble/terminal-landing )
+![GitHub](https://img.shields.io/github/license/mattiaginoble/terminal-landing)
 ![GitHub top language](https://img.shields.io/github/languages/top/mattiaginoble/terminal-landing?logo=javascript)
 ![GitHub release](https://img.shields.io/github/v/release/mattiaginoble/terminal-landing.svg?color=green)
 ![GitHub all releases](https://img.shields.io/github/downloads/mattiaginoble/terminal-landing/total)
