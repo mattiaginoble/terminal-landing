@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# A landing page with interactive terminal in React
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3R1MWJka3YwdDhmNTZrNXF1OW9uajlwN3V4em5nZzd5MGQzcWhoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CM5PSpbbPpBD80QxJ5/giphy.gif)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![GitHub](https://img.shields.io/github/license/mattiaginoble/terminal-landing )
+![GitHub top language](https://img.shields.io/github/languages/top/mattiaginoble/terminal-landing?logo=javascript)
+![GitHub release](https://img.shields.io/github/v/release/mattiaginoble/terminal-landing.svg?color=green)
+![GitHub all releases](https://img.shields.io/github/downloads/mattiaginoble/terminal-landing/total)
+![GitHub contributors](https://img.shields.io/github/contributors/mattiaginoble/terminal-landing )
+
+A mockup written in React of a [landing page with terminal](https://codesandbox.io/s/terminal-landing-cx846s/).
+
+## Installation
+
+Download the latest release, open the folder in the terminal, install all the modules `npm install`, then `npm start`.
+
+Please feel free to contribute to the project.
 
 ## Available Scripts
 
@@ -28,43 +41,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
